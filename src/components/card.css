@@ -1,0 +1,9 @@
+.card {
+  /* display: flex; */
+  font-family: sans-serif;
+  color: #ffffff;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
